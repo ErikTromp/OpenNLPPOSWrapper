@@ -1,4 +1,4 @@
-package com.et4it;
+package nl.et4it;
 
 import java.io.IOException;
 import java.io.InputStream;
